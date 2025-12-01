@@ -1,0 +1,69 @@
+@import "tailwindcss";
+
+:root {
+  --background: linear-gradient(135deg,#f8fafc 0%, #eef2ff 50%, #fff0f6 100%);
+  --foreground: #0f172a;
+  --muted: #64748b;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: linear-gradient(135deg,#071023 0%, #07132a 60%, #061324 100%);
+    --foreground: #e6eef8;
+    --muted: #94a3b8;
+  }
+}
+
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  background-image: var(--background);
+  background-attachment: fixed;
+  color: var(--foreground);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Glass card used to wrap search box */
+.glass-card {
+  background: rgba(255,255,255,0.7);
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px rgba(16,24,40,0.12);
+  border: 1px solid rgba(255,255,255,0.6);
+}
+
+@media (prefers-color-scheme: dark) {
+  .glass-card {
+    background: linear-gradient(180deg, rgba(6,10,18,0.6), rgba(8,12,22,0.5));
+    border: 1px solid rgba(255,255,255,0.04);
+    box-shadow: 0 8px 30px rgba(2,6,23,0.6);
+  }
+}
+
+.btn-gradient {
+  background: linear-gradient(90deg,#6366f1 0%, #ec4899 100%);
+  color: white;
+}
+
+.muted { color: var(--muted); }
+
+.result-card {
+  background: rgba(249,250,251,0.9);
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  box-shadow: 0 6px 18px rgba(15,23,42,0.06);
+}
+
+@media (prefers-color-scheme: dark) {
+  .result-card { background: rgba(7,10,22,0.6); }
+}

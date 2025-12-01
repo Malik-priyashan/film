@@ -1,0 +1,4517 @@
+[
+  {
+    "movieName": "Interstellar",
+    "mainActress": [
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Matthew McConaughey"
+    ],
+    "cast": [
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Matthew McConaughey",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Inception",
+    "mainActress": [
+      "Ellen Page (Elliot Page)",
+      "Marion Cotillard",
+      "Leonardo DiCaprio"
+    ],
+    "cast": [
+      "Ellen Page (Elliot Page)",
+      "Marion Cotillard",
+      "Leonardo DiCaprio",
+      "Other Cast"
+    ],
+    "year": 2010,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Dark Knight",
+    "mainActress": [
+      "Maggie Gyllenhaal",
+      "Katie Holmes"
+    ],
+    "cast": [
+      "Maggie Gyllenhaal",
+      "Katie Holmes",
+      "Other Cast"
+    ],
+    "year": 2008,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 9,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Godfather",
+    "mainActress": [
+      "Diane Keaton",
+      "Talia Shire"
+    ],
+    "cast": [
+      "Diane Keaton",
+      "Talia Shire",
+      "Other Cast"
+    ],
+    "year": 1972,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 9,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Shawshank Redemption",
+    "mainActress": [
+      "Morgan Freeman (male lead)",
+      "no female lead listed"
+    ],
+    "cast": [
+      "Morgan Freeman (male lead)",
+      "no female lead listed",
+      "Other Cast"
+    ],
+    "year": 1994,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 9,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Forrest Gump",
+    "mainActress": [
+      "Robin Wright"
+    ],
+    "cast": [
+      "Robin Wright",
+      "Other Cast"
+    ],
+    "year": 1994,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Titanic",
+    "mainActress": [
+      "Kate Winslet",
+      "Gloria Stuart"
+    ],
+    "cast": [
+      "Kate Winslet",
+      "Gloria Stuart",
+      "Other Cast"
+    ],
+    "year": 1997,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Fight Club",
+    "mainActress": [
+      "Helena Bonham Carter"
+    ],
+    "cast": [
+      "Helena Bonham Carter",
+      "Other Cast"
+    ],
+    "year": 1999,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Pulp Fiction",
+    "mainActress": [
+      "Uma Thurman"
+    ],
+    "cast": [
+      "Uma Thurman",
+      "Other Cast"
+    ],
+    "year": 1994,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Lord of the Rings: The Fellowship of the Ring",
+    "mainActress": [
+      "Liv Tyler"
+    ],
+    "cast": [
+      "Liv Tyler",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Avatar",
+    "mainActress": [
+      "Zoe Saldana",
+      "Sigourney Weaver"
+    ],
+    "cast": [
+      "Zoe Saldana",
+      "Sigourney Weaver",
+      "Other Cast"
+    ],
+    "year": 2009,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Matrix",
+    "mainActress": [
+      "Carrie-Anne Moss"
+    ],
+    "cast": [
+      "Carrie-Anne Moss",
+      "Other Cast"
+    ],
+    "year": 1999,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Gladiator",
+    "mainActress": [
+      "Connie Nielsen"
+    ],
+    "cast": [
+      "Connie Nielsen",
+      "Other Cast"
+    ],
+    "year": 2000,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Social Network",
+    "mainActress": [
+      "Rooney Mara"
+    ],
+    "cast": [
+      "Rooney Mara",
+      "Other Cast"
+    ],
+    "year": 2010,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Whiplash",
+    "mainActress": [
+      "Melissa Benoist (small role)"
+    ],
+    "cast": [
+      "Melissa Benoist (small role)",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "La La Land",
+    "mainActress": [
+      "Emma Stone"
+    ],
+    "cast": [
+      "Emma Stone",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Prestige",
+    "mainActress": [
+      "Scarlett Johansson (small uncredited role)"
+    ],
+    "cast": [
+      "Scarlett Johansson (small uncredited role)",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Joker",
+    "mainActress": [
+      "Zazie Beetz",
+      "Frances Conroy"
+    ],
+    "cast": [
+      "Zazie Beetz",
+      "Frances Conroy",
+      "Other Cast"
+    ],
+    "year": 2019,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Avengers: Endgame",
+    "mainActress": [
+      "Scarlett Johansson",
+      "Brie Larson"
+    ],
+    "cast": [
+      "Scarlett Johansson",
+      "Brie Larson",
+      "Other Cast"
+    ],
+    "year": 2019,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Lion King",
+    "mainActress": [
+      "Whoopi Goldberg (voice)",
+      "Moira Kelly (voice)"
+    ],
+    "cast": [
+      "Whoopi Goldberg (voice)",
+      "Moira Kelly (voice)",
+      "Other Cast"
+    ],
+    "year": 1994,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Dangal",
+    "mainActress": [
+      "Zaira Wasim (young)",
+      "Fatima Sana Shaikh"
+    ],
+    "cast": [
+      "Zaira Wasim (young)",
+      "Fatima Sana Shaikh",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "3 Idiots",
+    "mainActress": [
+      "Kareena Kapoor",
+      "Madhavan (male lead)"
+    ],
+    "cast": [
+      "Kareena Kapoor",
+      "Madhavan (male lead)",
+      "Other Cast"
+    ],
+    "year": 2009,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Lagaan",
+    "mainActress": [
+      "Gracy Singh"
+    ],
+    "cast": [
+      "Gracy Singh",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "PK",
+    "mainActress": [
+      "Anushka Sharma"
+    ],
+    "cast": [
+      "Anushka Sharma",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Kabhi Khushi Kabhie Gham",
+    "mainActress": [
+      "Kajol",
+      "Kareena Kapoor"
+    ],
+    "cast": [
+      "Kajol",
+      "Kareena Kapoor",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Shershaah",
+    "mainActress": [
+      "Kiara Advani"
+    ],
+    "cast": [
+      "Kiara Advani",
+      "Other Cast"
+    ],
+    "year": 2021,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Queen",
+    "mainActress": [
+      "Kangana Ranaut"
+    ],
+    "cast": [
+      "Kangana Ranaut",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Barfi!",
+    "mainActress": [
+      "Priyanka Chopra",
+      "Ileana D'Cruz"
+    ],
+    "cast": [
+      "Priyanka Chopra",
+      "Ileana D'Cruz",
+      "Other Cast"
+    ],
+    "year": 2012,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Bajirao Mastani",
+    "mainActress": [
+      "Deepika Padukone",
+      "Priyanka Chopra"
+    ],
+    "cast": [
+      "Deepika Padukone",
+      "Priyanka Chopra",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Andhadhun",
+    "mainActress": [
+      "Tabu"
+    ],
+    "cast": [
+      "Tabu",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Baahubali: The Beginning",
+    "mainActress": [
+      "Anushka Shetty",
+      "Tamannaah"
+    ],
+    "cast": [
+      "Anushka Shetty",
+      "Tamannaah",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Baahubali: The Conclusion",
+    "mainActress": [
+      "Anushka Shetty",
+      "Tamannaah"
+    ],
+    "cast": [
+      "Anushka Shetty",
+      "Tamannaah",
+      "Other Cast"
+    ],
+    "year": 2017,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "RRR",
+    "mainActress": [
+      "Alia Bhatt",
+      "Olivia Morris (female leads)"
+    ],
+    "cast": [
+      "Alia Bhatt",
+      "Olivia Morris (female leads)",
+      "Other Cast"
+    ],
+    "year": 2022,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Pushpa: The Rise",
+    "mainActress": [
+      "Rashmika Mandanna"
+    ],
+    "cast": [
+      "Rashmika Mandanna",
+      "Other Cast"
+    ],
+    "year": 2021,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Ala Vaikunthapurramuloo",
+    "mainActress": [
+      "Pooja Hegde"
+    ],
+    "cast": [
+      "Pooja Hegde",
+      "Other Cast"
+    ],
+    "year": 2020,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Arjun Reddy",
+    "mainActress": [
+      "Shalini Pandey"
+    ],
+    "cast": [
+      "Shalini Pandey",
+      "Other Cast"
+    ],
+    "year": 2017,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "K.G.F: Chapter 1",
+    "mainActress": [
+      "Srinidhi Shetty"
+    ],
+    "cast": [
+      "Srinidhi Shetty",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Kannada"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "K.G.F: Chapter 2",
+    "mainActress": [
+      "Srinidhi Shetty"
+    ],
+    "cast": [
+      "Srinidhi Shetty",
+      "Other Cast"
+    ],
+    "year": 2022,
+    "language": [
+      "Kannada"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Kantara",
+    "mainActress": [
+      "Sapthami Gowda"
+    ],
+    "cast": [
+      "Sapthami Gowda",
+      "Other Cast"
+    ],
+    "year": 2022,
+    "language": [
+      "Kannada"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Ugramm",
+    "mainActress": [
+      "Kriti Kharbanda (minor)"
+    ],
+    "cast": [
+      "Kriti Kharbanda (minor)",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "Kannada"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Drishyam (Malayalam)",
+    "mainActress": [
+      "Meena"
+    ],
+    "cast": [
+      "Meena",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "Malayalam"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Lucifer",
+    "mainActress": [
+      "Manju Warrier (later remakes)"
+    ],
+    "cast": [
+      "Manju Warrier (later remakes)",
+      "Other Cast"
+    ],
+    "year": 2019,
+    "language": [
+      "Malayalam"
+    ],
+    "imdbRating": 6,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Premam",
+    "mainActress": [
+      "Sai Pallavi",
+      "Madonna Sebastian",
+      "Anupama Parameswaran"
+    ],
+    "cast": [
+      "Sai Pallavi",
+      "Madonna Sebastian",
+      "Anupama Parameswaran",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "Malayalam"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Charlie",
+    "mainActress": [
+      "Parvathy Thiruvothu"
+    ],
+    "cast": [
+      "Parvathy Thiruvothu",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "Malayalam"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Bangalore Days",
+    "mainActress": [
+      "Nazriya Nazim",
+      "Parvathy"
+    ],
+    "cast": [
+      "Nazriya Nazim",
+      "Parvathy",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "Malayalam"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Soorarai Pottru",
+    "mainActress": [
+      "Aparna Balamurali"
+    ],
+    "cast": [
+      "Aparna Balamurali",
+      "Other Cast"
+    ],
+    "year": 2020,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "96",
+    "mainActress": [
+      "Trisha Krishnan"
+    ],
+    "cast": [
+      "Trisha Krishnan",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Vikram",
+    "mainActress": [
+      "Trisha Krishnan",
+      "Vijay Sethupathi (female lead: Ramar's role)"
+    ],
+    "cast": [
+      "Trisha Krishnan",
+      "Vijay Sethupathi (female lead: Ramar's role)",
+      "Other Cast"
+    ],
+    "year": 2022,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Master",
+    "mainActress": [
+      "Malavika Mohanan"
+    ],
+    "cast": [
+      "Malavika Mohanan",
+      "Other Cast"
+    ],
+    "year": 2021,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 6,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Kabali",
+    "mainActress": [
+      "Radhika Apte (cameo)"
+    ],
+    "cast": [
+      "Radhika Apte (cameo)",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 6,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Visaranai",
+    "mainActress": [
+      "G. V. Prakash Kumar (male-heavy)"
+    ],
+    "cast": [
+      "G. V. Prakash Kumar (male-heavy)",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Soorarai Pottru (again)",
+    "mainActress": [
+      "Aparna Balamurali"
+    ],
+    "cast": [
+      "Aparna Balamurali",
+      "Other Cast"
+    ],
+    "year": 2020,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Gully Boy",
+    "mainActress": [
+      "Alia Bhatt (female lead)"
+    ],
+    "cast": [
+      "Alia Bhatt (female lead)",
+      "Other Cast"
+    ],
+    "year": 2019,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Zindagi Na Milegi Dobara",
+    "mainActress": [
+      "Katrina Kaif",
+      "Kalki Koechlin"
+    ],
+    "cast": [
+      "Katrina Kaif",
+      "Kalki Koechlin",
+      "Other Cast"
+    ],
+    "year": 2011,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Dil Chahta Hai",
+    "mainActress": [
+      "Preity Zinta (female lead)",
+      "Dimple Kapadia"
+    ],
+    "cast": [
+      "Preity Zinta (female lead)",
+      "Dimple Kapadia",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Rockstar",
+    "mainActress": [
+      "Nargis Fakhri"
+    ],
+    "cast": [
+      "Nargis Fakhri",
+      "Other Cast"
+    ],
+    "year": 2011,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Mersal",
+    "mainActress": [
+      "Nayanthara"
+    ],
+    "cast": [
+      "Nayanthara",
+      "Other Cast"
+    ],
+    "year": 2017,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Enthiran (Robot)",
+    "mainActress": [
+      "Aishwarya Rai Bachchan"
+    ],
+    "cast": [
+      "Aishwarya Rai Bachchan",
+      "Other Cast"
+    ],
+    "year": 2010,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "PK (again)",
+    "mainActress": [
+      "Anushka Sharma"
+    ],
+    "cast": [
+      "Anushka Sharma",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Tumbbad",
+    "mainActress": [
+      "Sohini Sarkar (minor)"
+    ],
+    "cast": [
+      "Sohini Sarkar (minor)",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Lunchbox",
+    "mainActress": [
+      "Nimrat Kaur"
+    ],
+    "cast": [
+      "Nimrat Kaur",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Haider",
+    "mainActress": [
+      "Tabu"
+    ],
+    "cast": [
+      "Tabu",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Black",
+    "mainActress": [
+      "Rani Mukerji"
+    ],
+    "cast": [
+      "Rani Mukerji",
+      "Other Cast"
+    ],
+    "year": 2005,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Swades",
+    "mainActress": [
+      "Gayatri Joshi"
+    ],
+    "cast": [
+      "Gayatri Joshi",
+      "Other Cast"
+    ],
+    "year": 2004,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Padmaavat",
+    "mainActress": [
+      "Deepika Padukone"
+    ],
+    "cast": [
+      "Deepika Padukone",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Dilwale Dulhania Le Jayenge",
+    "mainActress": [
+      "Kajol"
+    ],
+    "cast": [
+      "Kajol",
+      "Other Cast"
+    ],
+    "year": 1995,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Kahaani",
+    "mainActress": [
+      "Vidya Balan"
+    ],
+    "cast": [
+      "Vidya Balan",
+      "Other Cast"
+    ],
+    "year": 2012,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "A Wednesday!",
+    "mainActress": [
+      "Naseeruddin Shah (male lead)",
+      "not female-centric"
+    ],
+    "cast": [
+      "Naseeruddin Shah (male lead)",
+      "not female-centric",
+      "Other Cast"
+    ],
+    "year": 2008,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Munna Bhai M.B.B.S.",
+    "mainActress": [
+      "Gracy Singh (female lead)"
+    ],
+    "cast": [
+      "Gracy Singh (female lead)",
+      "Other Cast"
+    ],
+    "year": 2003,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Singham",
+    "mainActress": [
+      "Kajal Aggarwal (female lead in some versions)"
+    ],
+    "cast": [
+      "Kajal Aggarwal (female lead in some versions)",
+      "Other Cast"
+    ],
+    "year": 2011,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Parasite",
+    "mainActress": [
+      "Cho Yeo-jeong"
+    ],
+    "cast": [
+      "Cho Yeo-jeong",
+      "Other Cast"
+    ],
+    "year": 2019,
+    "language": [
+      "Korean"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Oldboy",
+    "mainActress": [
+      "Korean female lead: Kang Hye-jung"
+    ],
+    "cast": [
+      "Korean female lead: Kang Hye-jung",
+      "Other Cast"
+    ],
+    "year": 2003,
+    "language": [
+      "Korean"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Train to Busan",
+    "mainActress": [
+      "Ji-soo Yeon etc"
+    ],
+    "cast": [
+      "Ji-soo Yeon etc",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Korean"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Seven Samurai",
+    "mainActress": [
+      "Keiko Tsushima (female)",
+      "classic"
+    ],
+    "cast": [
+      "Keiko Tsushima (female)",
+      "classic",
+      "Other Cast"
+    ],
+    "year": 1954,
+    "language": [
+      "Japanese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Spirited Away",
+    "mainActress": [
+      "Rumi Hiiragi (voice)"
+    ],
+    "cast": [
+      "Rumi Hiiragi (voice)",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "Japanese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Your Name",
+    "mainActress": [
+      "Mone Kamishiraishi (voice)"
+    ],
+    "cast": [
+      "Mone Kamishiraishi (voice)",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Japanese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Amelie",
+    "mainActress": [
+      "Audrey Tautou"
+    ],
+    "cast": [
+      "Audrey Tautou",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "French"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Intouchables",
+    "mainActress": [
+      "No female lead prominent"
+    ],
+    "cast": [
+      "No female lead prominent",
+      "Other Cast"
+    ],
+    "year": 2011,
+    "language": [
+      "French"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Cinema Paradiso",
+    "mainActress": [
+      "Antonella Attili (female presence)"
+    ],
+    "cast": [
+      "Antonella Attili (female presence)",
+      "Other Cast"
+    ],
+    "year": 1988,
+    "language": [
+      "Italian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Life is Beautiful",
+    "mainActress": [
+      "Nicoletta Braschi"
+    ],
+    "cast": [
+      "Nicoletta Braschi",
+      "Other Cast"
+    ],
+    "year": 1997,
+    "language": [
+      "Italian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "City of God",
+    "mainActress": [
+      "Alice Braga (minor)"
+    ],
+    "cast": [
+      "Alice Braga (minor)",
+      "Other Cast"
+    ],
+    "year": 2002,
+    "language": [
+      "Portuguese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Pan's Labyrinth",
+    "mainActress": [
+      "Maribel Verdú"
+    ],
+    "cast": [
+      "Maribel Verdú",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "Spanish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Roma",
+    "mainActress": [
+      "Yalitza Aparicio"
+    ],
+    "cast": [
+      "Yalitza Aparicio",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Spanish"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Hunt",
+    "mainActress": [
+      "Sonja Richter"
+    ],
+    "cast": [
+      "Sonja Richter",
+      "Other Cast"
+    ],
+    "year": 2012,
+    "language": [
+      "Danish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "A Separation",
+    "mainActress": [
+      "Leila Hatami"
+    ],
+    "cast": [
+      "Leila Hatami",
+      "Other Cast"
+    ],
+    "year": 2011,
+    "language": [
+      "Persian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Bicycle Thieves",
+    "mainActress": [
+      "Lianella Carell"
+    ],
+    "cast": [
+      "Lianella Carell",
+      "Other Cast"
+    ],
+    "year": 1948,
+    "language": [
+      "Italian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Lives of Others",
+    "mainActress": [
+      "Martina Gedeck"
+    ],
+    "cast": [
+      "Martina Gedeck",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "German"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Run Lola Run",
+    "mainActress": [
+      "Franka Potente"
+    ],
+    "cast": [
+      "Franka Potente",
+      "Other Cast"
+    ],
+    "year": 1998,
+    "language": [
+      "German"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Grand Budapest Hotel",
+    "mainActress": [
+      "Saoirse Ronan (small)",
+      "Tilda Swinton"
+    ],
+    "cast": [
+      "Saoirse Ronan (small)",
+      "Tilda Swinton",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Memento",
+    "mainActress": [
+      "Carrie-Anne Moss (minor)"
+    ],
+    "cast": [
+      "Carrie-Anne Moss (minor)",
+      "Other Cast"
+    ],
+    "year": 2000,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Goodfellas",
+    "mainActress": [
+      "Lorraine Bracco"
+    ],
+    "cast": [
+      "Lorraine Bracco",
+      "Other Cast"
+    ],
+    "year": 1990,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Departed",
+    "mainActress": [
+      "Vera Farmiga"
+    ],
+    "cast": [
+      "Vera Farmiga",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Whale Rider",
+    "mainActress": [
+      "Keisha Castle-Hughes"
+    ],
+    "cast": [
+      "Keisha Castle-Hughes",
+      "Other Cast"
+    ],
+    "year": 2002,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Pan's Labyrinth (again)",
+    "mainActress": [
+      "Maribel Verdú"
+    ],
+    "cast": [
+      "Maribel Verdú",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "Spanish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Lives of Others (again)",
+    "mainActress": [
+      "Martina Gedeck"
+    ],
+    "cast": [
+      "Martina Gedeck",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "German"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "My Neighbor Totoro",
+    "mainActress": [
+      "Noriko Hidaka (voice)"
+    ],
+    "cast": [
+      "Noriko Hidaka (voice)",
+      "Other Cast"
+    ],
+    "year": 1988,
+    "language": [
+      "Japanese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Truman Show",
+    "mainActress": [
+      "Laura Linney"
+    ],
+    "cast": [
+      "Laura Linney",
+      "Other Cast"
+    ],
+    "year": 1998,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "No Country for Old Men",
+    "mainActress": [
+      "Kelly Macdonald"
+    ],
+    "cast": [
+      "Kelly Macdonald",
+      "Other Cast"
+    ],
+    "year": 2007,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "There Will Be Blood",
+    "mainActress": [
+      "Paul Dano (male)",
+      "not female-centric"
+    ],
+    "cast": [
+      "Paul Dano (male)",
+      "not female-centric",
+      "Other Cast"
+    ],
+    "year": 2007,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Her",
+    "mainActress": [
+      "Scarlett Johansson (voice)"
+    ],
+    "cast": [
+      "Scarlett Johansson (voice)",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Mad Max: Fury Road",
+    "mainActress": [
+      "Charlize Theron"
+    ],
+    "cast": [
+      "Charlize Theron",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Black Panther",
+    "mainActress": [
+      "Lupita Nyong'o",
+      "Letitia Wright"
+    ],
+    "cast": [
+      "Lupita Nyong'o",
+      "Letitia Wright",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Revenant",
+    "mainActress": [
+      "Domhnall Gleeson (male)",
+      "not female-centric"
+    ],
+    "cast": [
+      "Domhnall Gleeson (male)",
+      "not female-centric",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Slumdog Millionaire",
+    "mainActress": [
+      "Freida Pinto"
+    ],
+    "cast": [
+      "Freida Pinto",
+      "Other Cast"
+    ],
+    "year": 2008,
+    "language": [
+      "English/Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Mother India",
+    "mainActress": [
+      "Nargis"
+    ],
+    "cast": [
+      "Nargis",
+      "Other Cast"
+    ],
+    "year": 1957,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Pather Panchali",
+    "mainActress": [
+      "Karuna Banerjee"
+    ],
+    "cast": [
+      "Karuna Banerjee",
+      "Other Cast"
+    ],
+    "year": 1955,
+    "language": [
+      "Bengali"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Seventh Seal",
+    "mainActress": [
+      "Bibi Andersson"
+    ],
+    "cast": [
+      "Bibi Andersson",
+      "Other Cast"
+    ],
+    "year": 1957,
+    "language": [
+      "Swedish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Good, the Bad and the Ugly",
+    "mainActress": [
+      "Claudia Cardinale (minor)"
+    ],
+    "cast": [
+      "Claudia Cardinale (minor)",
+      "Other Cast"
+    ],
+    "year": 1966,
+    "language": [
+      "Italian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Cinema Paradiso (again)",
+    "mainActress": [
+      "Antonella Attili"
+    ],
+    "cast": [
+      "Antonella Attili",
+      "Other Cast"
+    ],
+    "year": 1988,
+    "language": [
+      "Italian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Pianist",
+    "mainActress": [
+      "Emilia Fox (minor)"
+    ],
+    "cast": [
+      "Emilia Fox (minor)",
+      "Other Cast"
+    ],
+    "year": 2002,
+    "language": [
+      "English/Polish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Crouching Tiger, Hidden Dragon",
+    "mainActress": [
+      "Zhang Ziyi"
+    ],
+    "cast": [
+      "Zhang Ziyi",
+      "Other Cast"
+    ],
+    "year": 2000,
+    "language": [
+      "Mandarin"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Hero (2002)",
+    "mainActress": [
+      "Maggie Cheung (some roles)"
+    ],
+    "cast": [
+      "Maggie Cheung (some roles)",
+      "Other Cast"
+    ],
+    "year": 2002,
+    "language": [
+      "Mandarin"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Infernal Affairs",
+    "mainActress": [
+      "Kelly Chen (minor)"
+    ],
+    "cast": [
+      "Kelly Chen (minor)",
+      "Other Cast"
+    ],
+    "year": 2002,
+    "language": [
+      "Cantonese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Ip Man",
+    "mainActress": [
+      "Lynn Hung (minor)"
+    ],
+    "cast": [
+      "Lynn Hung (minor)",
+      "Other Cast"
+    ],
+    "year": 2008,
+    "language": [
+      "Cantonese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Handmaiden",
+    "mainActress": [
+      "Kim Min-hee"
+    ],
+    "cast": [
+      "Kim Min-hee",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Korean"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Mulan (1998)",
+    "mainActress": [
+      "Ming-Na Wen (voice)"
+    ],
+    "cast": [
+      "Ming-Na Wen (voice)",
+      "Other Cast"
+    ],
+    "year": 1998,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Frozen",
+    "mainActress": [
+      "Idina Menzel (voice)",
+      "Kristen Bell (voice)"
+    ],
+    "cast": [
+      "Idina Menzel (voice)",
+      "Kristen Bell (voice)",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Toy Story",
+    "mainActress": [
+      "Annie Potts (voice)"
+    ],
+    "cast": [
+      "Annie Potts (voice)",
+      "Other Cast"
+    ],
+    "year": 1995,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Up",
+    "mainActress": [
+      "Carolyn Hennesy (voice",
+      "minor)"
+    ],
+    "cast": [
+      "Carolyn Hennesy (voice",
+      "minor)",
+      "Other Cast"
+    ],
+    "year": 2009,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Incredibles",
+    "mainActress": [
+      "Holly Hunter (voice)"
+    ],
+    "cast": [
+      "Holly Hunter (voice)",
+      "Other Cast"
+    ],
+    "year": 2004,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Coco",
+    "mainActress": [
+      "Ana Ofelia Murguía (voice)"
+    ],
+    "cast": [
+      "Ana Ofelia Murguía (voice)",
+      "Other Cast"
+    ],
+    "year": 2017,
+    "language": [
+      "English/Spanish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Spider-Man: Into the Spider-Verse",
+    "mainActress": [
+      "Hailee Steinfeld (voice)"
+    ],
+    "cast": [
+      "Hailee Steinfeld (voice)",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The King's Speech",
+    "mainActress": [
+      "Helena Bonham Carter"
+    ],
+    "cast": [
+      "Helena Bonham Carter",
+      "Other Cast"
+    ],
+    "year": 2010,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Atonement",
+    "mainActress": [
+      "Keira Knightley"
+    ],
+    "cast": [
+      "Keira Knightley",
+      "Other Cast"
+    ],
+    "year": 2007,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Slumdog Millionaire (again)",
+    "mainActress": [
+      "Freida Pinto"
+    ],
+    "cast": [
+      "Freida Pinto",
+      "Other Cast"
+    ],
+    "year": 2008,
+    "language": [
+      "English/Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Hobbit: An Unexpected Journey",
+    "mainActress": [
+      "Cate Blanchett (voice/role)"
+    ],
+    "cast": [
+      "Cate Blanchett (voice/role)",
+      "Other Cast"
+    ],
+    "year": 2012,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Imitation Game",
+    "mainActress": [
+      "Keira Knightley"
+    ],
+    "cast": [
+      "Keira Knightley",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Argo",
+    "mainActress": [
+      "Sari Lennick (minor)"
+    ],
+    "cast": [
+      "Sari Lennick (minor)",
+      "Other Cast"
+    ],
+    "year": 2012,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Dallas Buyers Club",
+    "mainActress": [
+      "Jennifer Garner (minor)"
+    ],
+    "cast": [
+      "Jennifer Garner (minor)",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Green Mile",
+    "mainActress": [
+      "Patricia Clarkson (minor)"
+    ],
+    "cast": [
+      "Patricia Clarkson (minor)",
+      "Other Cast"
+    ],
+    "year": 1999,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Good Will Hunting",
+    "mainActress": [
+      "Minnie Driver"
+    ],
+    "cast": [
+      "Minnie Driver",
+      "Other Cast"
+    ],
+    "year": 1997,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Interstellar (Extended 0)",
+    "mainActress": [
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Matthew McConaughey"
+    ],
+    "cast": [
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Matthew McConaughey",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Inception (Extended 1)",
+    "mainActress": [
+      "Ellen Page (Elliot Page)",
+      "Marion Cotillard",
+      "Leonardo DiCaprio"
+    ],
+    "cast": [
+      "Ellen Page (Elliot Page)",
+      "Marion Cotillard",
+      "Leonardo DiCaprio",
+      "Other Cast"
+    ],
+    "year": 2010,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Dark Knight (Extended 2)",
+    "mainActress": [
+      "Maggie Gyllenhaal",
+      "Katie Holmes"
+    ],
+    "cast": [
+      "Maggie Gyllenhaal",
+      "Katie Holmes",
+      "Other Cast"
+    ],
+    "year": 2008,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 9,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Godfather (Extended 3)",
+    "mainActress": [
+      "Diane Keaton",
+      "Talia Shire"
+    ],
+    "cast": [
+      "Diane Keaton",
+      "Talia Shire",
+      "Other Cast"
+    ],
+    "year": 1972,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 9,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Shawshank Redemption (Extended 4)",
+    "mainActress": [
+      "Morgan Freeman (male lead)",
+      "no female lead listed"
+    ],
+    "cast": [
+      "Morgan Freeman (male lead)",
+      "no female lead listed",
+      "Other Cast"
+    ],
+    "year": 1994,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 9,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Forrest Gump (Extended 5)",
+    "mainActress": [
+      "Robin Wright"
+    ],
+    "cast": [
+      "Robin Wright",
+      "Other Cast"
+    ],
+    "year": 1994,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Titanic (Extended 6)",
+    "mainActress": [
+      "Kate Winslet",
+      "Gloria Stuart"
+    ],
+    "cast": [
+      "Kate Winslet",
+      "Gloria Stuart",
+      "Other Cast"
+    ],
+    "year": 1997,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Fight Club (Extended 7)",
+    "mainActress": [
+      "Helena Bonham Carter"
+    ],
+    "cast": [
+      "Helena Bonham Carter",
+      "Other Cast"
+    ],
+    "year": 1999,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Pulp Fiction (Extended 8)",
+    "mainActress": [
+      "Uma Thurman"
+    ],
+    "cast": [
+      "Uma Thurman",
+      "Other Cast"
+    ],
+    "year": 1994,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Lord of the Rings: The Fellowship of the Ring (Extended 9)",
+    "mainActress": [
+      "Liv Tyler"
+    ],
+    "cast": [
+      "Liv Tyler",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Avatar (Extended 10)",
+    "mainActress": [
+      "Zoe Saldana",
+      "Sigourney Weaver"
+    ],
+    "cast": [
+      "Zoe Saldana",
+      "Sigourney Weaver",
+      "Other Cast"
+    ],
+    "year": 2009,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Matrix (Extended 11)",
+    "mainActress": [
+      "Carrie-Anne Moss"
+    ],
+    "cast": [
+      "Carrie-Anne Moss",
+      "Other Cast"
+    ],
+    "year": 1999,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Gladiator (Extended 12)",
+    "mainActress": [
+      "Connie Nielsen"
+    ],
+    "cast": [
+      "Connie Nielsen",
+      "Other Cast"
+    ],
+    "year": 2000,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Social Network (Extended 13)",
+    "mainActress": [
+      "Rooney Mara"
+    ],
+    "cast": [
+      "Rooney Mara",
+      "Other Cast"
+    ],
+    "year": 2010,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Whiplash (Extended 14)",
+    "mainActress": [
+      "Melissa Benoist (small role)"
+    ],
+    "cast": [
+      "Melissa Benoist (small role)",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "La La Land (Extended 15)",
+    "mainActress": [
+      "Emma Stone"
+    ],
+    "cast": [
+      "Emma Stone",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Prestige (Extended 16)",
+    "mainActress": [
+      "Scarlett Johansson (small uncredited role)"
+    ],
+    "cast": [
+      "Scarlett Johansson (small uncredited role)",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Joker (Extended 17)",
+    "mainActress": [
+      "Zazie Beetz",
+      "Frances Conroy"
+    ],
+    "cast": [
+      "Zazie Beetz",
+      "Frances Conroy",
+      "Other Cast"
+    ],
+    "year": 2019,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Avengers: Endgame (Extended 18)",
+    "mainActress": [
+      "Scarlett Johansson",
+      "Brie Larson"
+    ],
+    "cast": [
+      "Scarlett Johansson",
+      "Brie Larson",
+      "Other Cast"
+    ],
+    "year": 2019,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Lion King (Extended 19)",
+    "mainActress": [
+      "Whoopi Goldberg (voice)",
+      "Moira Kelly (voice)"
+    ],
+    "cast": [
+      "Whoopi Goldberg (voice)",
+      "Moira Kelly (voice)",
+      "Other Cast"
+    ],
+    "year": 1994,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Dangal (Extended 20)",
+    "mainActress": [
+      "Zaira Wasim (young)",
+      "Fatima Sana Shaikh"
+    ],
+    "cast": [
+      "Zaira Wasim (young)",
+      "Fatima Sana Shaikh",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "3 Idiots (Extended 21)",
+    "mainActress": [
+      "Kareena Kapoor",
+      "Madhavan (male lead)"
+    ],
+    "cast": [
+      "Kareena Kapoor",
+      "Madhavan (male lead)",
+      "Other Cast"
+    ],
+    "year": 2009,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Lagaan (Extended 22)",
+    "mainActress": [
+      "Gracy Singh"
+    ],
+    "cast": [
+      "Gracy Singh",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "PK (Extended 23)",
+    "mainActress": [
+      "Anushka Sharma"
+    ],
+    "cast": [
+      "Anushka Sharma",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Kabhi Khushi Kabhie Gham (Extended 24)",
+    "mainActress": [
+      "Kajol",
+      "Kareena Kapoor"
+    ],
+    "cast": [
+      "Kajol",
+      "Kareena Kapoor",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Shershaah (Extended 25)",
+    "mainActress": [
+      "Kiara Advani"
+    ],
+    "cast": [
+      "Kiara Advani",
+      "Other Cast"
+    ],
+    "year": 2021,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Queen (Extended 26)",
+    "mainActress": [
+      "Kangana Ranaut"
+    ],
+    "cast": [
+      "Kangana Ranaut",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Barfi! (Extended 27)",
+    "mainActress": [
+      "Priyanka Chopra",
+      "Ileana D'Cruz"
+    ],
+    "cast": [
+      "Priyanka Chopra",
+      "Ileana D'Cruz",
+      "Other Cast"
+    ],
+    "year": 2012,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Bajirao Mastani (Extended 28)",
+    "mainActress": [
+      "Deepika Padukone",
+      "Priyanka Chopra"
+    ],
+    "cast": [
+      "Deepika Padukone",
+      "Priyanka Chopra",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Andhadhun (Extended 29)",
+    "mainActress": [
+      "Tabu"
+    ],
+    "cast": [
+      "Tabu",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Baahubali: The Beginning (Extended 30)",
+    "mainActress": [
+      "Anushka Shetty",
+      "Tamannaah"
+    ],
+    "cast": [
+      "Anushka Shetty",
+      "Tamannaah",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Baahubali: The Conclusion (Extended 31)",
+    "mainActress": [
+      "Anushka Shetty",
+      "Tamannaah"
+    ],
+    "cast": [
+      "Anushka Shetty",
+      "Tamannaah",
+      "Other Cast"
+    ],
+    "year": 2017,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "RRR (Extended 32)",
+    "mainActress": [
+      "Alia Bhatt",
+      "Olivia Morris (female leads)"
+    ],
+    "cast": [
+      "Alia Bhatt",
+      "Olivia Morris (female leads)",
+      "Other Cast"
+    ],
+    "year": 2022,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Pushpa: The Rise (Extended 33)",
+    "mainActress": [
+      "Rashmika Mandanna"
+    ],
+    "cast": [
+      "Rashmika Mandanna",
+      "Other Cast"
+    ],
+    "year": 2021,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Ala Vaikunthapurramuloo (Extended 34)",
+    "mainActress": [
+      "Pooja Hegde"
+    ],
+    "cast": [
+      "Pooja Hegde",
+      "Other Cast"
+    ],
+    "year": 2020,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Arjun Reddy (Extended 35)",
+    "mainActress": [
+      "Shalini Pandey"
+    ],
+    "cast": [
+      "Shalini Pandey",
+      "Other Cast"
+    ],
+    "year": 2017,
+    "language": [
+      "Telugu"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "K.G.F: Chapter 1 (Extended 36)",
+    "mainActress": [
+      "Srinidhi Shetty"
+    ],
+    "cast": [
+      "Srinidhi Shetty",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Kannada"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "K.G.F: Chapter 2 (Extended 37)",
+    "mainActress": [
+      "Srinidhi Shetty"
+    ],
+    "cast": [
+      "Srinidhi Shetty",
+      "Other Cast"
+    ],
+    "year": 2022,
+    "language": [
+      "Kannada"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Kantara (Extended 38)",
+    "mainActress": [
+      "Sapthami Gowda"
+    ],
+    "cast": [
+      "Sapthami Gowda",
+      "Other Cast"
+    ],
+    "year": 2022,
+    "language": [
+      "Kannada"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Ugramm (Extended 39)",
+    "mainActress": [
+      "Kriti Kharbanda (minor)"
+    ],
+    "cast": [
+      "Kriti Kharbanda (minor)",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "Kannada"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Drishyam (Malayalam) (Extended 40)",
+    "mainActress": [
+      "Meena"
+    ],
+    "cast": [
+      "Meena",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "Malayalam"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Lucifer (Extended 41)",
+    "mainActress": [
+      "Manju Warrier (later remakes)"
+    ],
+    "cast": [
+      "Manju Warrier (later remakes)",
+      "Other Cast"
+    ],
+    "year": 2019,
+    "language": [
+      "Malayalam"
+    ],
+    "imdbRating": 6,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Premam (Extended 42)",
+    "mainActress": [
+      "Sai Pallavi",
+      "Madonna Sebastian",
+      "Anupama Parameswaran"
+    ],
+    "cast": [
+      "Sai Pallavi",
+      "Madonna Sebastian",
+      "Anupama Parameswaran",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "Malayalam"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Charlie (Extended 43)",
+    "mainActress": [
+      "Parvathy Thiruvothu"
+    ],
+    "cast": [
+      "Parvathy Thiruvothu",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "Malayalam"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Bangalore Days (Extended 44)",
+    "mainActress": [
+      "Nazriya Nazim",
+      "Parvathy"
+    ],
+    "cast": [
+      "Nazriya Nazim",
+      "Parvathy",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "Malayalam"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Soorarai Pottru (Extended 45)",
+    "mainActress": [
+      "Aparna Balamurali"
+    ],
+    "cast": [
+      "Aparna Balamurali",
+      "Other Cast"
+    ],
+    "year": 2020,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "96 (Extended 46)",
+    "mainActress": [
+      "Trisha Krishnan"
+    ],
+    "cast": [
+      "Trisha Krishnan",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Vikram (Extended 47)",
+    "mainActress": [
+      "Trisha Krishnan",
+      "Vijay Sethupathi (female lead: Ramar's role)"
+    ],
+    "cast": [
+      "Trisha Krishnan",
+      "Vijay Sethupathi (female lead: Ramar's role)",
+      "Other Cast"
+    ],
+    "year": 2022,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Master (Extended 48)",
+    "mainActress": [
+      "Malavika Mohanan"
+    ],
+    "cast": [
+      "Malavika Mohanan",
+      "Other Cast"
+    ],
+    "year": 2021,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 6,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Kabali (Extended 49)",
+    "mainActress": [
+      "Radhika Apte (cameo)"
+    ],
+    "cast": [
+      "Radhika Apte (cameo)",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 6,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Visaranai (Extended 50)",
+    "mainActress": [
+      "G. V. Prakash Kumar (male-heavy)"
+    ],
+    "cast": [
+      "G. V. Prakash Kumar (male-heavy)",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Soorarai Pottru (again) (Extended 51)",
+    "mainActress": [
+      "Aparna Balamurali"
+    ],
+    "cast": [
+      "Aparna Balamurali",
+      "Other Cast"
+    ],
+    "year": 2020,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Gully Boy (Extended 52)",
+    "mainActress": [
+      "Alia Bhatt (female lead)"
+    ],
+    "cast": [
+      "Alia Bhatt (female lead)",
+      "Other Cast"
+    ],
+    "year": 2019,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Zindagi Na Milegi Dobara (Extended 53)",
+    "mainActress": [
+      "Katrina Kaif",
+      "Kalki Koechlin"
+    ],
+    "cast": [
+      "Katrina Kaif",
+      "Kalki Koechlin",
+      "Other Cast"
+    ],
+    "year": 2011,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Dil Chahta Hai (Extended 54)",
+    "mainActress": [
+      "Preity Zinta (female lead)",
+      "Dimple Kapadia"
+    ],
+    "cast": [
+      "Preity Zinta (female lead)",
+      "Dimple Kapadia",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Rockstar (Extended 55)",
+    "mainActress": [
+      "Nargis Fakhri"
+    ],
+    "cast": [
+      "Nargis Fakhri",
+      "Other Cast"
+    ],
+    "year": 2011,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Mersal (Extended 56)",
+    "mainActress": [
+      "Nayanthara"
+    ],
+    "cast": [
+      "Nayanthara",
+      "Other Cast"
+    ],
+    "year": 2017,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Enthiran (Robot) (Extended 57)",
+    "mainActress": [
+      "Aishwarya Rai Bachchan"
+    ],
+    "cast": [
+      "Aishwarya Rai Bachchan",
+      "Other Cast"
+    ],
+    "year": 2010,
+    "language": [
+      "Tamil"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "PK (again) (Extended 58)",
+    "mainActress": [
+      "Anushka Sharma"
+    ],
+    "cast": [
+      "Anushka Sharma",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Tumbbad (Extended 59)",
+    "mainActress": [
+      "Sohini Sarkar (minor)"
+    ],
+    "cast": [
+      "Sohini Sarkar (minor)",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Lunchbox (Extended 60)",
+    "mainActress": [
+      "Nimrat Kaur"
+    ],
+    "cast": [
+      "Nimrat Kaur",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Haider (Extended 61)",
+    "mainActress": [
+      "Tabu"
+    ],
+    "cast": [
+      "Tabu",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Black (Extended 62)",
+    "mainActress": [
+      "Rani Mukerji"
+    ],
+    "cast": [
+      "Rani Mukerji",
+      "Other Cast"
+    ],
+    "year": 2005,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Swades (Extended 63)",
+    "mainActress": [
+      "Gayatri Joshi"
+    ],
+    "cast": [
+      "Gayatri Joshi",
+      "Other Cast"
+    ],
+    "year": 2004,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Padmaavat (Extended 64)",
+    "mainActress": [
+      "Deepika Padukone"
+    ],
+    "cast": [
+      "Deepika Padukone",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Dilwale Dulhania Le Jayenge (Extended 65)",
+    "mainActress": [
+      "Kajol"
+    ],
+    "cast": [
+      "Kajol",
+      "Other Cast"
+    ],
+    "year": 1995,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Kahaani (Extended 66)",
+    "mainActress": [
+      "Vidya Balan"
+    ],
+    "cast": [
+      "Vidya Balan",
+      "Other Cast"
+    ],
+    "year": 2012,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "A Wednesday! (Extended 67)",
+    "mainActress": [
+      "Naseeruddin Shah (male lead)",
+      "not female-centric"
+    ],
+    "cast": [
+      "Naseeruddin Shah (male lead)",
+      "not female-centric",
+      "Other Cast"
+    ],
+    "year": 2008,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Munna Bhai M.B.B.S. (Extended 68)",
+    "mainActress": [
+      "Gracy Singh (female lead)"
+    ],
+    "cast": [
+      "Gracy Singh (female lead)",
+      "Other Cast"
+    ],
+    "year": 2003,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Singham (Extended 69)",
+    "mainActress": [
+      "Kajal Aggarwal (female lead in some versions)"
+    ],
+    "cast": [
+      "Kajal Aggarwal (female lead in some versions)",
+      "Other Cast"
+    ],
+    "year": 2011,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Parasite (Extended 70)",
+    "mainActress": [
+      "Cho Yeo-jeong"
+    ],
+    "cast": [
+      "Cho Yeo-jeong",
+      "Other Cast"
+    ],
+    "year": 2019,
+    "language": [
+      "Korean"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Oldboy (Extended 71)",
+    "mainActress": [
+      "Korean female lead: Kang Hye-jung"
+    ],
+    "cast": [
+      "Korean female lead: Kang Hye-jung",
+      "Other Cast"
+    ],
+    "year": 2003,
+    "language": [
+      "Korean"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Train to Busan (Extended 72)",
+    "mainActress": [
+      "Ji-soo Yeon etc"
+    ],
+    "cast": [
+      "Ji-soo Yeon etc",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Korean"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Seven Samurai (Extended 73)",
+    "mainActress": [
+      "Keiko Tsushima (female)",
+      "classic"
+    ],
+    "cast": [
+      "Keiko Tsushima (female)",
+      "classic",
+      "Other Cast"
+    ],
+    "year": 1954,
+    "language": [
+      "Japanese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Spirited Away (Extended 74)",
+    "mainActress": [
+      "Rumi Hiiragi (voice)"
+    ],
+    "cast": [
+      "Rumi Hiiragi (voice)",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "Japanese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Your Name (Extended 75)",
+    "mainActress": [
+      "Mone Kamishiraishi (voice)"
+    ],
+    "cast": [
+      "Mone Kamishiraishi (voice)",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Japanese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Amelie (Extended 76)",
+    "mainActress": [
+      "Audrey Tautou"
+    ],
+    "cast": [
+      "Audrey Tautou",
+      "Other Cast"
+    ],
+    "year": 2001,
+    "language": [
+      "French"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Intouchables (Extended 77)",
+    "mainActress": [
+      "No female lead prominent"
+    ],
+    "cast": [
+      "No female lead prominent",
+      "Other Cast"
+    ],
+    "year": 2011,
+    "language": [
+      "French"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Cinema Paradiso (Extended 78)",
+    "mainActress": [
+      "Antonella Attili (female presence)"
+    ],
+    "cast": [
+      "Antonella Attili (female presence)",
+      "Other Cast"
+    ],
+    "year": 1988,
+    "language": [
+      "Italian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Life is Beautiful (Extended 79)",
+    "mainActress": [
+      "Nicoletta Braschi"
+    ],
+    "cast": [
+      "Nicoletta Braschi",
+      "Other Cast"
+    ],
+    "year": 1997,
+    "language": [
+      "Italian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "City of God (Extended 80)",
+    "mainActress": [
+      "Alice Braga (minor)"
+    ],
+    "cast": [
+      "Alice Braga (minor)",
+      "Other Cast"
+    ],
+    "year": 2002,
+    "language": [
+      "Portuguese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Pan's Labyrinth (Extended 81)",
+    "mainActress": [
+      "Maribel Verdú"
+    ],
+    "cast": [
+      "Maribel Verdú",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "Spanish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Roma (Extended 82)",
+    "mainActress": [
+      "Yalitza Aparicio"
+    ],
+    "cast": [
+      "Yalitza Aparicio",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "Spanish"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Hunt (Extended 83)",
+    "mainActress": [
+      "Sonja Richter"
+    ],
+    "cast": [
+      "Sonja Richter",
+      "Other Cast"
+    ],
+    "year": 2012,
+    "language": [
+      "Danish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "A Separation (Extended 84)",
+    "mainActress": [
+      "Leila Hatami"
+    ],
+    "cast": [
+      "Leila Hatami",
+      "Other Cast"
+    ],
+    "year": 2011,
+    "language": [
+      "Persian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Bicycle Thieves (Extended 85)",
+    "mainActress": [
+      "Lianella Carell"
+    ],
+    "cast": [
+      "Lianella Carell",
+      "Other Cast"
+    ],
+    "year": 1948,
+    "language": [
+      "Italian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Lives of Others (Extended 86)",
+    "mainActress": [
+      "Martina Gedeck"
+    ],
+    "cast": [
+      "Martina Gedeck",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "German"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Run Lola Run (Extended 87)",
+    "mainActress": [
+      "Franka Potente"
+    ],
+    "cast": [
+      "Franka Potente",
+      "Other Cast"
+    ],
+    "year": 1998,
+    "language": [
+      "German"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Grand Budapest Hotel (Extended 88)",
+    "mainActress": [
+      "Saoirse Ronan (small)",
+      "Tilda Swinton"
+    ],
+    "cast": [
+      "Saoirse Ronan (small)",
+      "Tilda Swinton",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Memento (Extended 89)",
+    "mainActress": [
+      "Carrie-Anne Moss (minor)"
+    ],
+    "cast": [
+      "Carrie-Anne Moss (minor)",
+      "Other Cast"
+    ],
+    "year": 2000,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Goodfellas (Extended 90)",
+    "mainActress": [
+      "Lorraine Bracco"
+    ],
+    "cast": [
+      "Lorraine Bracco",
+      "Other Cast"
+    ],
+    "year": 1990,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Departed (Extended 91)",
+    "mainActress": [
+      "Vera Farmiga"
+    ],
+    "cast": [
+      "Vera Farmiga",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Whale Rider (Extended 92)",
+    "mainActress": [
+      "Keisha Castle-Hughes"
+    ],
+    "cast": [
+      "Keisha Castle-Hughes",
+      "Other Cast"
+    ],
+    "year": 2002,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Pan's Labyrinth (again) (Extended 93)",
+    "mainActress": [
+      "Maribel Verdú"
+    ],
+    "cast": [
+      "Maribel Verdú",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "Spanish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Lives of Others (again) (Extended 94)",
+    "mainActress": [
+      "Martina Gedeck"
+    ],
+    "cast": [
+      "Martina Gedeck",
+      "Other Cast"
+    ],
+    "year": 2006,
+    "language": [
+      "German"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "My Neighbor Totoro (Extended 95)",
+    "mainActress": [
+      "Noriko Hidaka (voice)"
+    ],
+    "cast": [
+      "Noriko Hidaka (voice)",
+      "Other Cast"
+    ],
+    "year": 1988,
+    "language": [
+      "Japanese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Truman Show (Extended 96)",
+    "mainActress": [
+      "Laura Linney"
+    ],
+    "cast": [
+      "Laura Linney",
+      "Other Cast"
+    ],
+    "year": 1998,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "No Country for Old Men (Extended 97)",
+    "mainActress": [
+      "Kelly Macdonald"
+    ],
+    "cast": [
+      "Kelly Macdonald",
+      "Other Cast"
+    ],
+    "year": 2007,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "There Will Be Blood (Extended 98)",
+    "mainActress": [
+      "Paul Dano (male)",
+      "not female-centric"
+    ],
+    "cast": [
+      "Paul Dano (male)",
+      "not female-centric",
+      "Other Cast"
+    ],
+    "year": 2007,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Her (Extended 99)",
+    "mainActress": [
+      "Scarlett Johansson (voice)"
+    ],
+    "cast": [
+      "Scarlett Johansson (voice)",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Mad Max: Fury Road (Extended 100)",
+    "mainActress": [
+      "Charlize Theron"
+    ],
+    "cast": [
+      "Charlize Theron",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Black Panther (Extended 101)",
+    "mainActress": [
+      "Lupita Nyong'o",
+      "Letitia Wright"
+    ],
+    "cast": [
+      "Lupita Nyong'o",
+      "Letitia Wright",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Revenant (Extended 102)",
+    "mainActress": [
+      "Domhnall Gleeson (male)",
+      "not female-centric"
+    ],
+    "cast": [
+      "Domhnall Gleeson (male)",
+      "not female-centric",
+      "Other Cast"
+    ],
+    "year": 2015,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Slumdog Millionaire (Extended 103)",
+    "mainActress": [
+      "Freida Pinto"
+    ],
+    "cast": [
+      "Freida Pinto",
+      "Other Cast"
+    ],
+    "year": 2008,
+    "language": [
+      "English/Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Mother India (Extended 104)",
+    "mainActress": [
+      "Nargis"
+    ],
+    "cast": [
+      "Nargis",
+      "Other Cast"
+    ],
+    "year": 1957,
+    "language": [
+      "Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Pather Panchali (Extended 105)",
+    "mainActress": [
+      "Karuna Banerjee"
+    ],
+    "cast": [
+      "Karuna Banerjee",
+      "Other Cast"
+    ],
+    "year": 1955,
+    "language": [
+      "Bengali"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Seventh Seal (Extended 106)",
+    "mainActress": [
+      "Bibi Andersson"
+    ],
+    "cast": [
+      "Bibi Andersson",
+      "Other Cast"
+    ],
+    "year": 1957,
+    "language": [
+      "Swedish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Good, the Bad and the Ugly (Extended 107)",
+    "mainActress": [
+      "Claudia Cardinale (minor)"
+    ],
+    "cast": [
+      "Claudia Cardinale (minor)",
+      "Other Cast"
+    ],
+    "year": 1966,
+    "language": [
+      "Italian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Cinema Paradiso (again) (Extended 108)",
+    "mainActress": [
+      "Antonella Attili"
+    ],
+    "cast": [
+      "Antonella Attili",
+      "Other Cast"
+    ],
+    "year": 1988,
+    "language": [
+      "Italian"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Pianist (Extended 109)",
+    "mainActress": [
+      "Emilia Fox (minor)"
+    ],
+    "cast": [
+      "Emilia Fox (minor)",
+      "Other Cast"
+    ],
+    "year": 2002,
+    "language": [
+      "English/Polish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Crouching Tiger, Hidden Dragon (Extended 110)",
+    "mainActress": [
+      "Zhang Ziyi"
+    ],
+    "cast": [
+      "Zhang Ziyi",
+      "Other Cast"
+    ],
+    "year": 2000,
+    "language": [
+      "Mandarin"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Hero (2002) (Extended 111)",
+    "mainActress": [
+      "Maggie Cheung (some roles)"
+    ],
+    "cast": [
+      "Maggie Cheung (some roles)",
+      "Other Cast"
+    ],
+    "year": 2002,
+    "language": [
+      "Mandarin"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Infernal Affairs (Extended 112)",
+    "mainActress": [
+      "Kelly Chen (minor)"
+    ],
+    "cast": [
+      "Kelly Chen (minor)",
+      "Other Cast"
+    ],
+    "year": 2002,
+    "language": [
+      "Cantonese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Ip Man (Extended 113)",
+    "mainActress": [
+      "Lynn Hung (minor)"
+    ],
+    "cast": [
+      "Lynn Hung (minor)",
+      "Other Cast"
+    ],
+    "year": 2008,
+    "language": [
+      "Cantonese"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Handmaiden (Extended 114)",
+    "mainActress": [
+      "Kim Min-hee"
+    ],
+    "cast": [
+      "Kim Min-hee",
+      "Other Cast"
+    ],
+    "year": 2016,
+    "language": [
+      "Korean"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Mulan (1998) (Extended 115)",
+    "mainActress": [
+      "Ming-Na Wen (voice)"
+    ],
+    "cast": [
+      "Ming-Na Wen (voice)",
+      "Other Cast"
+    ],
+    "year": 1998,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Frozen (Extended 116)",
+    "mainActress": [
+      "Idina Menzel (voice)",
+      "Kristen Bell (voice)"
+    ],
+    "cast": [
+      "Idina Menzel (voice)",
+      "Kristen Bell (voice)",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Toy Story (Extended 117)",
+    "mainActress": [
+      "Annie Potts (voice)"
+    ],
+    "cast": [
+      "Annie Potts (voice)",
+      "Other Cast"
+    ],
+    "year": 1995,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Up (Extended 118)",
+    "mainActress": [
+      "Carolyn Hennesy (voice",
+      "minor)"
+    ],
+    "cast": [
+      "Carolyn Hennesy (voice",
+      "minor)",
+      "Other Cast"
+    ],
+    "year": 2009,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Incredibles (Extended 119)",
+    "mainActress": [
+      "Holly Hunter (voice)"
+    ],
+    "cast": [
+      "Holly Hunter (voice)",
+      "Other Cast"
+    ],
+    "year": 2004,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Coco (Extended 120)",
+    "mainActress": [
+      "Ana Ofelia Murguía (voice)"
+    ],
+    "cast": [
+      "Ana Ofelia Murguía (voice)",
+      "Other Cast"
+    ],
+    "year": 2017,
+    "language": [
+      "English/Spanish"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Spider-Man: Into the Spider-Verse (Extended 121)",
+    "mainActress": [
+      "Hailee Steinfeld (voice)"
+    ],
+    "cast": [
+      "Hailee Steinfeld (voice)",
+      "Other Cast"
+    ],
+    "year": 2018,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The King's Speech (Extended 122)",
+    "mainActress": [
+      "Helena Bonham Carter"
+    ],
+    "cast": [
+      "Helena Bonham Carter",
+      "Other Cast"
+    ],
+    "year": 2010,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Atonement (Extended 123)",
+    "mainActress": [
+      "Keira Knightley"
+    ],
+    "cast": [
+      "Keira Knightley",
+      "Other Cast"
+    ],
+    "year": 2007,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Slumdog Millionaire (again) (Extended 124)",
+    "mainActress": [
+      "Freida Pinto"
+    ],
+    "cast": [
+      "Freida Pinto",
+      "Other Cast"
+    ],
+    "year": 2008,
+    "language": [
+      "English/Hindi"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Hobbit: An Unexpected Journey (Extended 125)",
+    "mainActress": [
+      "Cate Blanchett (voice/role)"
+    ],
+    "cast": [
+      "Cate Blanchett (voice/role)",
+      "Other Cast"
+    ],
+    "year": 2012,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Imitation Game (Extended 126)",
+    "mainActress": [
+      "Keira Knightley"
+    ],
+    "cast": [
+      "Keira Knightley",
+      "Other Cast"
+    ],
+    "year": 2014,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Argo (Extended 127)",
+    "mainActress": [
+      "Sari Lennick (minor)"
+    ],
+    "cast": [
+      "Sari Lennick (minor)",
+      "Other Cast"
+    ],
+    "year": 2012,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Dallas Buyers Club (Extended 128)",
+    "mainActress": [
+      "Jennifer Garner (minor)"
+    ],
+    "cast": [
+      "Jennifer Garner (minor)",
+      "Other Cast"
+    ],
+    "year": 2013,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "The Green Mile (Extended 129)",
+    "mainActress": [
+      "Patricia Clarkson (minor)"
+    ],
+    "cast": [
+      "Patricia Clarkson (minor)",
+      "Other Cast"
+    ],
+    "year": 1999,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Good Will Hunting (Extended 130)",
+    "mainActress": [
+      "Minnie Driver"
+    ],
+    "cast": [
+      "Minnie Driver",
+      "Other Cast"
+    ],
+    "year": 1997,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "LOW (needs verification)"
+  },
+  {
+    "movieName": "Dune: Part Two",
+    "mainActress": [
+      "Zendaya",
+      "Rebecca Ferguson"
+    ],
+    "cast": [
+      "Zendaya",
+      "Rebecca Ferguson",
+      "Timothée Chalamet",
+      "Austin Butler"
+    ],
+    "year": 2024,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "MEDIUM"
+  },
+  {
+    "movieName": "Barbie",
+    "mainActress": [
+      "Margot Robbie",
+      "America Ferrera"
+    ],
+    "cast": [
+      "Margot Robbie",
+      "America Ferrera",
+      "Ryan Gosling",
+      "Kate McKinnon"
+    ],
+    "year": 2023,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "MEDIUM"
+  },
+  {
+    "movieName": "Oppenheimer",
+    "mainActress": [
+      "Emily Blunt",
+      "Florence Pugh"
+    ],
+    "cast": [
+      "Emily Blunt",
+      "Florence Pugh",
+      "Cillian Murphy",
+      "Matt Damon"
+    ],
+    "year": 2023,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 9,
+    "confidence": "HIGH"
+  },
+  {
+    "movieName": "Everything Everywhere All at Once",
+    "mainActress": [
+      "Michelle Yeoh",
+      "Stephanie Hsu"
+    ],
+    "cast": [
+      "Michelle Yeoh",
+      "Stephanie Hsu",
+      "Ke Huy Quan",
+      "Jamie Lee Curtis"
+    ],
+    "year": 2022,
+    "language": [
+      "English",
+      "Mandarin"
+    ],
+    "imdbRating": 8,
+    "confidence": "HIGH"
+  },
+  {
+    "movieName": "Past Lives",
+    "mainActress": [
+      "Greta Lee"
+    ],
+    "cast": [
+      "Greta Lee",
+      "Teo Yoo",
+      "John Magaro"
+    ],
+    "year": 2023,
+    "language": [
+      "English",
+      "Korean"
+    ],
+    "imdbRating": 8,
+    "confidence": "MEDIUM"
+  },
+  {
+    "movieName": "Spider-Man: Across the Spider-Verse",
+    "mainActress": [
+      "Hailee Steinfeld"
+    ],
+    "cast": [
+      "Hailee Steinfeld",
+      "Shameik Moore",
+      "Oscar Isaac",
+      "Daniel Kaluuya"
+    ],
+    "year": 2023,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 9,
+    "confidence": "HIGH"
+  },
+  {
+    "movieName": "Killers of the Flower Moon",
+    "mainActress": [
+      "Lily Gladstone"
+    ],
+    "cast": [
+      "Lily Gladstone",
+      "Leonardo DiCaprio",
+      "Robert De Niro"
+    ],
+    "year": 2023,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 8,
+    "confidence": "MEDIUM"
+  },
+  {
+    "movieName": "The Marvels",
+    "mainActress": [
+      "Brie Larson",
+      "Teyonah Parris",
+      "Iman Vellani"
+    ],
+    "cast": [
+      "Brie Larson",
+      "Teyonah Parris",
+      "Iman Vellani",
+      "Zawe Ashton"
+    ],
+    "year": 2023,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 6,
+    "confidence": "MEDIUM"
+  },
+  {
+    "movieName": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "mainActress": [
+      "Rachel Zegler"
+    ],
+    "cast": [
+      "Rachel Zegler",
+      "Tom Blyth",
+      "Viola Davis",
+      "Hunter Schafer"
+    ],
+    "year": 2023,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "MEDIUM"
+  },
+  {
+    "movieName": "Mission: Impossible – Dead Reckoning Part One",
+    "mainActress": [
+      "Rebecca Ferguson",
+      "Hayley Atwell"
+    ],
+    "cast": [
+      "Rebecca Ferguson",
+      "Hayley Atwell",
+      "Tom Cruise",
+      "Ving Rhames"
+    ],
+    "year": 2023,
+    "language": [
+      "English"
+    ],
+    "imdbRating": 7,
+    "confidence": "MEDIUM"
+  }
+]
