@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { useRouter } from "next/navigation";
 
 const CRITERIA_LABELS = {
   movie: "Title",
@@ -10,6 +11,7 @@ const CRITERIA_LABELS = {
 };
 
 export default function SearchBox() {
+  const router = useRouter();
   const [similarMovie, setSimilarMovie] = useState("");
   const [mainActor, setMainActor] = useState("");
   const [year, setYear] = useState("");
@@ -50,6 +52,11 @@ export default function SearchBox() {
     }
   };
 
+  const handleLogout = () => {
+    document.cookie = "auth_token=; Path=/; Max-Age=0; SameSite=Lax";
+    router.push("/login");
+  };
+
 return (
   <div className="min-h-screen bg-linear-to-br from-black via-red-950 to-black py-12 px-4 relative overflow-hidden">
       {/* Animated background orbs for liquid effect */}
@@ -57,6 +64,14 @@ return (
       <div className="absolute bottom-20 right-10 w-96 h-96 bg-red-800/20 rounded-full blur-3xl animate-pulse" style={{animationDelay: '1s'}}></div>
       
       <div className="w-full max-w-2xl mx-auto relative z-10">
+        <div className="flex justify-end mb-4">
+          <button
+            onClick={handleLogout}
+            className="px-4 py-2 rounded-full border border-red-500/40 text-red-300 hover:text-white hover:bg-red-600/40 transition-colors"
+          >
+            Logout
+          </button>
+        </div>
   <h1 className="text-6xl font-extrabold text-center mb-3 bg-linear-to-r from-red-500 via-white to-red-500 bg-clip-text text-transparent drop-shadow-2xl animate-pulse">
           Movie Finder
         </h1>
